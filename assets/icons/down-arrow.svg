@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="11px" viewBox="0 0 20 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>down-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apple-TV" transform="translate(-502.000000, -697.000000)" fill="#FFFFFF">
+            <g id="Home">
+                <g id="Saiba-mais" transform="translate(465.000000, 666.000000)">
+                    <g id="down-arrow" transform="translate(37.000000, 31.907552)">
+                        <path d="M19.7953645,0.193488325 C19.519711,-0.0644961084 19.0717741,-0.0644961084 18.7961207,0.193488325 L10.0096665,8.43286618 L1.20598391,0.193488325 C0.930330446,-0.0644961084 0.482393565,-0.0644961084 0.206740099,0.193488325 C-0.0689133664,0.451472759 -0.0689133664,0.870697464 0.206740099,1.1286819 L9.49281622,9.81953251 C9.63064295,9.94852472 9.80292637,10.0130208 9.99243812,10.0130208 C10.1647215,10.0130208 10.3542333,9.94852472 10.49206,9.81953251 L19.7781362,1.1286819 C20.071018,0.870697464 20.071018,0.451472759 19.7953645,0.193488325 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
